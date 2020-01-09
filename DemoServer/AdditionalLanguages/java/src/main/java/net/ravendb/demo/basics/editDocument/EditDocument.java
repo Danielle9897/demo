@@ -5,7 +5,6 @@ import net.ravendb.client.documents.session.IDocumentSession;
 //endregion
 import net.ravendb.demo.common.DocumentStoreHolder;
 import net.ravendb.demo.common.models.Company;
-import net.ravendb.demo.common.models.Contact;
 
 public class EditDocument {
 
